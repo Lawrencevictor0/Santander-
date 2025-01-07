@@ -1,0 +1,11 @@
+----------------------------------------
+[*] WE GOT A HIT! Printing the output:
+POSSIBLE PASSWORD FIELD FOUND: enc_password=#PWD_INSTAGRAM_BROWSER:0:1736202326:Vasco@323                                                                                                                                                   
+PARAM: caaF2DebugGroup=0                                                                                                                                                                                                                    
+POSSIBLE USERNAME FIELD FOUND: loginAttemptSubmissionCount=9                                                                                                                                                                                
+PARAM: optIntoOneTap=false                                                                                                                                                                                                                  
+PARAM: queryParams={}                                                                                                                                                                                                                       
+PARAM: trustedDeviceRecords={}                                                                                                                                                                                                              
+POSSIBLE USERNAME FIELD FOUND: username=lawvictor00000@gmail.com                                                                                                                                                                               
+[*] WHEN YOU'RE FINISHED, HIT CONTROL-C TO GENERATE A REPORT.                                                                                                                                                                               
+                                                              
